@@ -1,22 +1,22 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release.",
-  "pub_date": "2026-03-10T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "See the release page for details.",
+  "pub_date": "2026-03-10T00:01:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.0/Arca_0.1.0_aarch64.dmg",
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.1/Arca_0.1.1_aarch64.dmg",
       "signature": ""
     },
     "darwin-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.0/Arca_0.1.0_x64.dmg",
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.1/Arca_0.1.1_x64.dmg",
       "signature": ""
     },
     "windows-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.0/Arca_0.1.0_x64-setup.exe",
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.1/Arca_0.1.1_x64-setup.exe",
       "signature": ""
     },
     "linux-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.0/Arca_0.1.0_amd64.AppImage",
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.1/Arca_0.1.1_amd64.AppImage",
       "signature": ""
     }
   }
