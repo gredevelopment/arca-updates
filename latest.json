@@ -1,23 +1,15 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.23",
   "notes": "See the release page for details.",
-  "pub_date": "2026-03-13T17:59:27Z",
+  "pub_date": "2026-03-13T23:50:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.6/Arca_0.1.6_aarch64.dmg",
-      "signature": ""
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.23/Arca_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SExBc2RPMUlrUHp2M1hUeGo3U0daZU92bSt2VkZUNC9xWWNSMlQwTS83TThuZlhFMkxGM2VIK3NHSG5kVWNJNThnK3kvSzBZOTFrYUYramRISmplK0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQ1NDY3CWZpbGU6QXJjYS5hcHAudGFyLmd6CkszaTB5RFNLN1oyQmFOQ0hYQWwyRE9FaytaYzdsUWNOU2xOOGRpWjFZRUh2UjdQV3VVSW52eGpYSHFrTTRBOUZOTkRYVlVaSHN6VEs5aUJ6RVNobURRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.6/Arca_0.1.6_x64.dmg",
-      "signature": ""
-    },
-    "windows-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.6/Arca_0.1.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SEZ3d3NQYVgwc2Q3YjdidGdEbFNhTVd2dGtKYVRzL2RLU1lVcUdCK3djc2VXMjVFM3FQRzRWaXdCYUo5U3RyM1cyNmhnWXpCeDlPRnZ4U0RYVnVnSndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDI0Mzk2CWZpbGU6QXJjYV8wLjEuNl94NjQtc2V0dXAuZXhlCklKaUJodWxBdmR1ZzJCYnMwaytuWUlRN0lGQzMzdXhWZFAwN2k5N090ZG1hTDduMmtoS1FXRlFZN28yaXpBdE03THhOaDArcG9IYzhFU2U2R2YzK0F3PT0K"
-    },
-    "linux-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.6/Arca_0.1.6_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SENrV0dsZmtWc0I4cDJmRDFVNHBpaU5pNWxVR0hnckRBWUR4SldqNTNNWStwZk5jWTNnSncyYmZ4RjJoY0ZhS1NMaHYyRjdGTTFpRFpla1hkUnFtenc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDIzOTcyCWZpbGU6QXJjYV8wLjEuNl9hbWQ2NC5BcHBJbWFnZQp2TExZaXo0Ym9JWE1FWGIrOUpSV29CaXJtcUMvU2lLSk9LTURDZ1ZadkVaeWgxRDdmbVRMbURrUlJndkxkdjY4UlY1Si93ZlE1WkhIQUtUbnVkUjNBQT09Cg=="
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v0.1.23/Arca_x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SEExem5CNUF1a01zYWRRYm1EOTJzR0hUUmFsMVNlTnpvOFBlY25PME5OZHNqOFp2NTJVbWRCSXNVdk03cHNqcmZpZTRqNmM1TmR4cERBcDJxQWh5VmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQ1NjkzCWZpbGU6QXJjYS5hcHAudGFyLmd6Cm5BRjI5bEV5NWtWTE13eTFzd2x3MzUrTDdWNHNjQzFWQzdYSnA1MWlMN052KzVnb2pJS2l6R0xkV0tBNjJ5eFpIRVpvelNzS3NpTVdZTE5PUURDOEFRPT0K"
     }
   }
 }
