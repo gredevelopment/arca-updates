@@ -1,0 +1,12 @@
+# Repository owner must approve all changes to critical files
+# This prevents unauthorized updates to release metadata
+
+# All files require owner approval
+* @gredevelopment
+
+# Critical release files - extra protection
+/latest.json @gredevelopment
+/changelog/*.md @gredevelopment
+
+# Workflow files - prevent malicious CI changes
+/.github/workflows/* @gredevelopment
