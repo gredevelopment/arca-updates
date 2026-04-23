@@ -1,19 +1,19 @@
 {
-  "version": "1.1.5",
+  "version": "1.3.20",
   "notes": "See the release page for details.",
-  "pub_date": "2026-04-01T21:35:23Z",
+  "pub_date": "2026-04-23T18:04:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.1.5/Arca_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SE5jWmRZcGc4SUtaZkRDZE95SXpCeU5nMnoxTEo3S2FJdjVBT21MVnY5VjI1NlRjV0FOU05sRHY3TVZpYlRCdDNmaWhsZ2NyK0l5UW5FT05XdG1ISndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDc4NjEyCWZpbGU6QXJjYS5hcHAudGFyLmd6CnNJZUNQVWJQTzR6VkVUcHdkSGQ4eHVxclpXb0ZDMkZJLzFteHZ3bDNhcW9oeERNL1Zkc0lxV0pYRy81NzVoRWhnKzZiU2ZIR2cyVUpYN05hR29OQ0J3PT0K"
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.3.20/Arca_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SENPV2ZjVElaL2xGaGMrZjJ0dWtNb1cyWnJxUFRnUjJRWE5rVHp6MVRGQWJYeDdBNnZkQWxaa3hOWE9SOFVvNURhSjA1K3cxUWFjUk5qTUxidnQvYXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTY2MTIwCWZpbGU6QXJjYS5hcHAudGFyLmd6CnIweml2VFhpZHBpa0JjRHRES1hKYmVwdEhwd1M2eFRyRmc3cUordVNub0FqdkhxbktjbUNoTkFrTlhrNlJVNkJQdWNoNU50Zllic1NRWXpiV2JFTEFBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.1.5/Arca_x86_64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SERXYncvVWVraFpxNUs0ZHBZenNWN0l2bENYdE1TTlBoTmxUTjMrU0k1S3MybE5ISlQyYy9JbTIyRGUvSjNHLzNYOHlIVDdYUHZDOElZdVlINXlqcHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDc4MzM4CWZpbGU6QXJjYS5hcHAudGFyLmd6ClUySG1RT1lKNmFKWm9NS09IdkhqWHgwd2ltMHFVNkFqNzBXTWJZMDZCQmRQYXhMUmZrTTdHeFA0Ym0rRTdWcGx0NmtlUDJLL05KMzd2UDUwdGVvb0RRPT0K"
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.3.20/Arca_x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SE5xdU9QRjBCNXdpQ0RiN21ER1pJQWlLajlyalNMUGFkUXFlY3ZhVXV6NGpNVmdCZ3lKVDlSYkl4TmRoNmFiNTlTVTB5SUhKZEg4VTBqSTZBc3hjc0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTY2NDQ1CWZpbGU6QXJjYS5hcHAudGFyLmd6CnVFZDlzYUN0SXBrZGNNTTJrd3UrUDBtZ3JObjd4ekN2aFNCODZWcXBVVUo0aFlLZEdoMkRoVk5CK0xvekV5WVFXbUUwV0tYeS8xM1JLTklEczRiUUJRPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.1.5/Arca_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SExoZUNaWHk1bWFaaUZDb2IxMy9tL01acEVRaytKZ2pmV09Ma3VRR25nWUc5QVEveC9TbmxrTk5HbThuVUVUQVlmN0dJWksrM0lYcnhLTW02azAyS1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDc5MTg5CWZpbGU6QXJjYV8xLjEuNV94NjQtc2V0dXAuZXhlCmRaNUdXRlNpbkxVZzh6ckZLWmRDMnJnVHdFYnU1QkpVcjFpN3lQNmpjZ29yVkFHNW9DbFNPTWhTV1ZEaDFjeTh2STMxYnkwMW1EWUxScFdBZytYeENnPT0K"
+      "url": "https://github.com/gredevelopment/arca-updates/releases/download/v1.3.20/Arca_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRuR3pPL0c3SEk2SStnK1V2R3pCa1lPblFTQm14NVM0NUVmaUZmRnRXTTUvZE1sR2pTVEVDVWxxSmkrc0paUi9jSkV6cjNOaiswclNRMzhJM3hWeGhRdkZ2Zks4VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTY3NDMzCWZpbGU6QXJjYV8xLjMuMjBfeDY0LXNldHVwLmV4ZQpNaXUzTTIyUzdyUEs4WTcrMDdIeDAzZlo3Z2R5dnRqSVJMcEpjRm1Yb1dZQzFIVHpqV2JobnAzY2Q3MkRNKzc4dlVWSnpjaEhBejUvNXBNeTBIRHdBUT09Cg=="
     }
   }
 }
